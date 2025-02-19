@@ -1,2 +1,1 @@
-# Ongoing_Learning
-Coding practices, challenges, and projects for my BackEnd, Data Analysis, Machine Learning, and Automations progress.
+Coding practices, challenges, and projects for SQL, Data Analysis, Machine Learning progress.
